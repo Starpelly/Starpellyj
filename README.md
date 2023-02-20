@@ -1,16 +1,13 @@
-### Hi there 👋
+### C#/BeefLang video game developer
 
-<!--
-**Starpelly/Starpelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Website & Blog](https://starpelly.com)
 
-Here are some ideas to get you started:
+[YouTube](https://youtube.com/Starpelly)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Twitter](https://twitter.com/Pellyplus)
+
+[Instagram](https://instagram.com/Starpelly_)
+
+[Steam](https://steamcommunity.com/id/starpelly/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starpelly&layout=compact)](https://github.com/starpelly/github-readme-stats)
